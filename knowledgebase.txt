@@ -1,0 +1,206 @@
+Q: What is Mahat.ai?
+A: Mahat.ai is a software development and Low-Code/No-Code (LCNC) platform that helps businesses build, manage, and deploy applications efficiently.
+
+---
+Q: What does LCNC mean?
+A: LCNC stands for Low-Code/No-Code, which allows users to create software applications with minimal or no coding.
+
+---
+Q: Who can use Mahat.ai’s platform?
+A: Mahat.ai can be used by developers, startups, businesses, and individuals who want to build apps without deep coding skills.
+
+---
+Q: What are the core services of Mahat.ai?
+A: Mahat.ai provides app development, chatbot integration, AI-powered automation, and data management services.
+
+---
+Q: Does Mahat.ai support AI chatbot creation?
+A: Yes, Mahat.ai supports the creation and deployment of AI chatbots for websites and applications.
+
+---
+Q: Can Mahat.ai integrate chatbots into websites?
+A: Yes, you can embed custom or Botpress-powered chatbots directly into your website using Mahat.ai tools.
+
+---
+Q: Is Mahat.ai suitable for e-commerce businesses?
+A: Absolutely. Mahat.ai provides tools to build online stores, manage product listings, and automate customer interactions.
+
+---
+Q: Can I use Mahat.ai for internal business tools?
+A: Yes, Mahat.ai allows users to build internal dashboards, forms, and workflow tools for company use.
+
+---
+Q: Is technical knowledge required to use Mahat.ai?
+A: No, Mahat.ai is designed to be accessible to both technical and non-technical users.
+
+---
+Q: What industries can benefit from Mahat.ai?
+A: Industries such as education, healthcare, retail, logistics, and manufacturing can benefit from using Mahat.ai.
+
+---
+Q: Can I integrate external APIs in Mahat.ai apps?
+A: Yes, Mahat.ai supports integration with third-party APIs and services.
+
+---
+Q: Does Mahat.ai offer chatbot training using knowledgebase?
+A: Yes, Mahat.ai enables chatbot training using structured knowledgebases in `.txt`, `.csv`, or other formats.
+
+---
+Q: Can Mahat.ai bots perform Google search?
+A: If integrated with proper tools, Mahat.ai bots can fetch relevant search data for answering user queries.
+
+---
+Q: Is there a free plan available at Mahat.ai?
+A: Mahat.ai offers trial and free plans depending on your usage and subscription level.
+
+---
+Q: What kind of user support is available?
+A: Mahat.ai offers documentation, email support, chatbot assistance, and callback request forms.
+
+---
+Q: Can I create forms with Mahat.ai?
+A: Yes, Mahat.ai allows you to design and manage forms for feedback, support, or lead generation.
+
+---
+Q: What makes Mahat.ai different?
+A: Mahat.ai combines LCNC flexibility with AI and automation to offer scalable, intelligent app solutions.
+
+---
+Q: What is the use of AI in Mahat.ai?
+A: AI powers features like smart chatbots, predictive analytics, automation, and user personalization.
+
+---
+Q: Can I deploy my Mahat.ai project on my domain?
+A: Yes, Mahat.ai allows you to export or deploy apps and bots directly to your custom domain.
+
+---
+Q: Does Mahat.ai support mobile-responsive design?
+A: Yes, all applications and bots built with Mahat.ai are responsive on mobile devices.
+
+---
+Q: How secure is Mahat.ai?
+A: Mahat.ai uses industry-standard encryption and secure architecture to protect your data and users.
+
+---
+Q: What platforms does Mahat.ai integrate with?
+A: Mahat.ai integrates with platforms like WhatsApp, Slack, Telegram, Zapier, and many more.
+
+---
+Q: Can I use Mahat.ai to build AI assistants?
+A: Yes, Mahat.ai supports building intelligent virtual assistants using LLM and NLP.
+
+---
+Q: What is the technology stack used?
+A: Mahat.ai combines Python, Flask, Node.js, and cloud-based services for scalability.
+
+---
+Q: How does Mahat.ai handle user feedback?
+A: User feedback is collected via forms, chatbots, or analytics to improve services.
+
+---
+Q: Can Mahat.ai bots send emails or schedule callbacks?
+A: Yes, bots built on Mahat.ai can trigger email responses and callback requests.
+
+---
+Q: Can Mahat.ai be used in education?
+A: Definitely. It supports online learning platforms, quizzes, student dashboards, and chatbot tutors.
+
+---
+Q: What are Mahat.ai’s pricing plans?
+A: Mahat.ai offers free, standard, and enterprise plans based on your business needs.
+
+---
+Q: How scalable are apps built on Mahat.ai?
+A: Very scalable. You can handle small-scale to enterprise-grade user bases.
+
+---
+Q: Can I build AI dashboards using Mahat.ai?
+A: Yes, Mahat.ai lets you create intelligent dashboards with charts, metrics, and analytics.
+
+---
+Q: What is the recommended knowledgebase format?
+A: `.txt` and `.csv` formats with clear Q&A separation are recommended.
+
+---
+Q: Does Mahat.ai support multilingual chatbots?
+A: Yes, it supports multiple languages for chatbot conversations.
+
+---
+Q: Can I customize the chatbot’s UI?
+A: Yes, you can fully customize bot widgets using CSS and inline styling.
+
+---
+Q: Is data backed up in Mahat.ai?
+A: Yes, automatic backups are maintained for apps and data security.
+
+---
+Q: How frequently can I update the knowledgebase?
+A: You can update the knowledgebase anytime by uploading a new file or editing directly.
+
+---
+Q: What is an example use case of Mahat.ai?
+A: Creating an appointment booking chatbot with backend integration.
+
+---
+Q: Can Mahat.ai bots use NLP?
+A: Yes, NLP is a core component for understanding user queries.
+
+---
+Q: Are LLMs supported in Mahat.ai?
+A: Yes, you can integrate open-source or cloud-based LLMs into your bot logic.
+
+---
+Q: How can I test my chatbot?
+A: Use the preview or test mode in the builder or embed it temporarily in a staging website.
+
+---
+Q: Can I connect Google Sheets or Excel?
+A: Yes, data connectors are available for spreadsheets and databases.
+
+---
+Q: Does Mahat.ai offer templates?
+A: Yes, there are starter templates for bots, apps, dashboards, and automations.
+
+---
+Q: What AI tools are compatible with Mahat.ai?
+A: Tools like Hugging Face, OpenAI, Cohere, and LangChain can be integrated.
+
+---
+Q: What if I have no coding background?
+A: You can still use Mahat.ai through its drag-and-drop visual builder.
+
+---
+Q: Can bots respond in real-time?
+A: Yes, bots respond instantly to user queries through a live chat interface.
+
+---
+Q: Does Mahat.ai have analytics?
+A: Yes, it provides analytics on usage, interaction rates, and conversion tracking.
+
+---
+Q: How do I deploy a bot to a website?
+A: Copy the embed script and paste it in your website’s `<head>` or `<body>` tag.
+
+---
+Q: Can Mahat.ai bots schedule meetings?
+A: Yes, integration with calendar APIs allows booking and scheduling.
+
+---
+Q: Can Mahat.ai bots search the web?
+A: With the right NLP and web scraping module, bots can perform live searches.
+
+---
+Q: Can I build an FAQ chatbot?
+A: Yes, FAQ-style bots can be trained on a .txt or .csv file.
+
+---
+Q: Can Mahat.ai integrate with CRM?
+A: Yes, CRM tools like HubSpot or Zoho can be integrated.
+
+---
+Q: Where is Mahat.ai based?
+A: Mahat.ai operates from India and serves a global clientele.
+
+---
+Q: What’s next for Mahat.ai?
+A: Mahat.ai is expanding its AI ecosystem, adding new features like voice bots and AR tools.
