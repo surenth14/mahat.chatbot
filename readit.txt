@@ -1,0 +1,9 @@
+This repository contains a simple Gradio-based chatbot for Mahat.ai.
+
+Files:
+- README.md: minimal heading with the project name.
+- app.py: launches a Gradio interface that uses a DistilBERT QA pipeline and SentenceTransformer embeddings with FAISS to answer questions from the knowledgebase.
+- knowledgebase.txt: a collection of Q&A pairs about Mahat.ai separated by lines containing '---'.
+- requirements.txt: lists the Python dependencies (gradio, transformers, sentence-transformers, faiss-cpu, torch).
+
+The chatbot searches the knowledge base for the closest question and provides an answer via the QA model when run.
